@@ -1,0 +1,94 @@
+Added Component: Designator=JP1(HED2)
+Add component (AddParameter): Name = "Class"; Value = "Connector"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Header 2"; VariantName = "[No Variations]"
+Added Component: Designator=LCD1(LCD16X2)
+Add component (AddParameter): Name = "Value"; Value = "LCD16x2A"; VariantName = "[No Variations]"
+Added Component: Designator=LED1(LED-3)
+Add component (AddParameter): Name = "Value"; Value = "LED 3 ly Single Colour"; VariantName = "[No Variations]"
+Added Component: Designator=Q1(QTO-220H3)
+Added Component: Designator=R1(R1/4W)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SubClass"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100R"; VariantName = "[No Variations]"
+Added Component: Designator=R2(R1/4W)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SubClass"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "330R"; VariantName = "[No Variations]"
+Added Component: Designator=R5(R1/4W)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SubClass"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R6(R1/4W)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SubClass"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "330R"; VariantName = "[No Variations]"
+Added Component: Designator=TB1(SHIELD_ARDUINO_NANO)
+Add component (AddParameter): Name = "Availability"; Value = "Not in stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/Arduino%20Nano/Arduino/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Arduino"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "Arduino Nano"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Non-Standard Arduino"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/Arduino%20Nano/Arduino/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=JP1-1
+Added Pin To Net: NetName=NetJP1_2 Pin=JP1-2
+Added Pin To Net: NetName=GND Pin=LCD1-1
+Added Pin To Net: NetName=NetLCD1_2 Pin=LCD1-2
+Added Pin To Net: NetName=NetLCD1_3 Pin=LCD1-3
+Added Pin To Net: NetName=NetLCD1_4 Pin=LCD1-4
+Added Pin To Net: NetName=GND Pin=LCD1-5
+Added Pin To Net: NetName=NetLCD1_6 Pin=LCD1-6
+Added Pin To Net: NetName=NetLCD1_11 Pin=LCD1-11
+Added Pin To Net: NetName=NetLCD1_12 Pin=LCD1-12
+Added Pin To Net: NetName=NetLCD1_13 Pin=LCD1-13
+Added Pin To Net: NetName=NetLCD1_14 Pin=LCD1-14
+Added Pin To Net: NetName=NetLCD1_15 Pin=LCD1-15
+Added Pin To Net: NetName=GND Pin=LCD1-16
+Added Pin To Net: NetName=NetLED1_1 Pin=LED1-1
+Added Pin To Net: NetName=GND Pin=LED1-2
+Added Pin To Net: NetName=NetQ1_1 Pin=Q1-1
+Added Pin To Net: NetName=GND Pin=Q1-2
+Added Pin To Net: NetName=GND Pin=Q1-2
+Added Pin To Net: NetName=GND Pin=Q1-3
+Added Pin To Net: NetName=GND Pin=R1-1
+Added Pin To Net: NetName=NetLCD1_3 Pin=R1-2
+Added Pin To Net: NetName=NetLED1_1 Pin=R2-1
+Added Pin To Net: NetName=NetR2_2 Pin=R2-2
+Added Pin To Net: NetName=GND Pin=R5-1
+Added Pin To Net: NetName=NetQ1_1 Pin=R5-2
+Added Pin To Net: NetName=NetLCD1_2 Pin=R6-1
+Added Pin To Net: NetName=NetLCD1_15 Pin=R6-2
+Added Pin To Net: NetName=NetLCD1_11 Pin=TB1-5
+Added Pin To Net: NetName=NetLCD1_12 Pin=TB1-6
+Added Pin To Net: NetName=NetLCD1_13 Pin=TB1-7
+Added Pin To Net: NetName=NetLCD1_14 Pin=TB1-8
+Added Pin To Net: NetName=NetLCD1_4 Pin=TB1-9
+Added Pin To Net: NetName=NetLCD1_6 Pin=TB1-11
+Added Pin To Net: NetName=NetR2_2 Pin=TB1-12
+Added Pin To Net: NetName=NetQ1_1 Pin=TB1-13
+Added Pin To Net: NetName=NetR3_1 Pin=TB1-20
+Added Pin To Net: NetName=NetLCD1_2 Pin=TB1-27
+Added Member To Class: ClassName=Sheet1 Member=Component JP1 Header 2_1
+Added Member To Class: ClassName=Sheet1 Member=Component LCD1 LCD16x2A
+Added Member To Class: ClassName=Sheet1 Member=Component LED1 LED
+Added Member To Class: ClassName=Sheet1 Member=Component Q1 IRFZ44
+Added Member To Class: ClassName=Sheet1 Member=Component R1 Res1
+Added Member To Class: ClassName=Sheet1 Member=Component R2 Res1
+Added Member To Class: ClassName=Sheet1 Member=Component R5 Res1
+Added Member To Class: ClassName=Sheet1 Member=Component R6 Res1
+Added Member To Class: ClassName=Sheet1 Member=Component TB1 ARDUINO_NANO
+Added Room: Name=Sheet1

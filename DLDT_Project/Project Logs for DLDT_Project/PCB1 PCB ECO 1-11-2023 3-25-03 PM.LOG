@@ -1,0 +1,67 @@
+Added Component: Designator=JP1(HED2)
+Add component (AddParameter): Name = "Class"; Value = "Connector"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Header 2"; VariantName = "[No Variations]"
+Added Component: Designator=LED?(LED-3)
+Add component (AddParameter): Name = "Value"; Value = "LED 3 ly Single Colour"; VariantName = "[No Variations]"
+Added Component: Designator=Q?(QTO-220H3)
+Added Component: Designator=TP?(TP1)
+Add component (AddParameter): Name = "Value"; Value = "Test Point"; VariantName = "[No Variations]"
+Added Component: Designator=TP?(TP)
+Added Pin To Net: NetName=GND Pin=JP1-1
+Added Pin To Net: NetName=GND Pin=LCD?-1
+Added Pin To Net: NetName=GND Pin=LCD?-5
+Added Pin To Net: NetName=GND Pin=LCD?-16
+Added Pin To Net: NetName=GND Pin=LED?-2
+Added Pin To Net: NetName=GND Pin=Q?-3
+Added Pin To Net: NetName=GND Pin=R46-1
+Added Pin To Net: NetName=GND Pin=R48-1
+Added Pin To Net: NetName=GND Pin=TB?-13
+Added Net: Name=GND
+Added Pin To Net: NetName=NetJP1_2 Pin=JP1-2
+Added Pin To Net: NetName=NetJP1_2 Pin=TB?-19
+Added Net: Name=NetJP1_2
+Added Pin To Net: NetName=NetLCD?_2 Pin=LCD?-2
+Added Pin To Net: NetName=NetLCD?_2 Pin=R46-1
+Added Pin To Net: NetName=NetLCD?_2 Pin=TB?-27
+Added Net: Name=NetLCD?_2
+Added Pin To Net: NetName=NetLCD?_3 Pin=LCD?-3
+Added Pin To Net: NetName=NetLCD?_3 Pin=R46-2
+Added Net: Name=NetLCD?_3
+Added Pin To Net: NetName=NetLCD?_4 Pin=LCD?-4
+Added Pin To Net: NetName=NetLCD?_4 Pin=TB?-9
+Added Net: Name=NetLCD?_4
+Added Pin To Net: NetName=NetLCD?_6 Pin=LCD?-6
+Added Pin To Net: NetName=NetLCD?_6 Pin=TB?-11
+Added Net: Name=NetLCD?_6
+Added Pin To Net: NetName=NetLCD?_11 Pin=LCD?-11
+Added Pin To Net: NetName=NetLCD?_11 Pin=TB?-5
+Added Net: Name=NetLCD?_11
+Added Pin To Net: NetName=NetLCD?_12 Pin=LCD?-12
+Added Pin To Net: NetName=NetLCD?_12 Pin=TB?-6
+Added Net: Name=NetLCD?_12
+Added Pin To Net: NetName=NetLCD?_13 Pin=LCD?-13
+Added Pin To Net: NetName=NetLCD?_13 Pin=TB?-7
+Added Net: Name=NetLCD?_13
+Added Pin To Net: NetName=NetLCD?_14 Pin=LCD?-14
+Added Pin To Net: NetName=NetLCD?_14 Pin=TB?-8
+Added Net: Name=NetLCD?_14
+Added Pin To Net: NetName=NetLCD?_15 Pin=LCD?-15
+Added Pin To Net: NetName=NetLCD?_15 Pin=R46-2
+Added Net: Name=NetLCD?_15
+Added Pin To Net: NetName=NetLED?_1 Pin=LED?-1
+Added Pin To Net: NetName=NetLED?_1 Pin=R47-1
+Added Net: Name=NetLED?_1
+Added Pin To Net: NetName=NetQ?_1 Pin=Q?-1
+Added Pin To Net: NetName=NetQ?_1 Pin=R48-2
+Added Net: Name=NetQ?_1
+Added Pin To Net: NetName=NetR47_2 Pin=R47-2
+Added Pin To Net: NetName=NetR47_2 Pin=TB?-12
+Added Net: Name=NetR47_2
+Added Member To Class: ClassName=Sheet1 Member=Component JP1 Header 2_1
+Added Member To Class: ClassName=Sheet1 Member=Component LED? LED
+Added Member To Class: ClassName=Sheet1 Member=Component Q? IRFZ44
+Added Member To Class: ClassName=Sheet1 Member=Component R46 Res1
+Added Member To Class: ClassName=Sheet1 Member=Component TP? TP
+Added Member To Class: ClassName=Sheet1 Member=Component TP? 1
+Added Room: Name=Sheet1
