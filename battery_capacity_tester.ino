@@ -32,7 +32,6 @@ void setup() {
   pinMode(pinLED, OUTPUT);
   digitalWrite(pinLED, LOW);
 }
-
 int     freq      = 1000;   // Every 1 second (1000 milliseconds) mAh will be calculated
 
 float  rShunt    = 1.00;    // Shunt resistor resistance (if possible instead of marked value on resistor, use multimeter to get a accurate value)
